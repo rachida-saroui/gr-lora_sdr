@@ -30,6 +30,7 @@ namespace gr {
 
     /*!
      * \brief <+description of block+>
+     * This block allows the automatic detection and correction of an error if it concerns only one bit of the message
      * \ingroup lora_sdr
      *
      */
